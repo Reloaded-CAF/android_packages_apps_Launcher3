@@ -227,4 +227,9 @@
     <!-- Overview -->
     <dimen name="options_menu_icon_size">24dp</dimen>
     <dimen name="options_menu_thumb_size">32dp</dimen>
+
+    <!-- Rounded Corners -->
+    <dimen name="task_corner_radius_default">2dp</dimen>
+    <dimen name="task_corner_radius_round">8dp</dimen>
+    <dimen name="task_corner_radius_op">16dp</dimen>
 </resources>
