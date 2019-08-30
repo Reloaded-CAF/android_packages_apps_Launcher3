@@ -194,10 +194,10 @@ public final class Utilities {
                 offset = 0.75F;
                 break;
             case "small":
-                offset = 0.90F;
+                offset = 0.85F;
                 break;
             case "average":
-                offset = 1.00F;
+                offset = 0.95F;
                 break;
             case "large":
                 offset = 1.10F;
@@ -206,7 +206,7 @@ public final class Utilities {
                 offset = 1.25F;
                 break;
             default:
-                offset = 1.00F;
+                offset = 0.95F;
                 break;
         }
         return offset;
